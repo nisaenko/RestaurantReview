@@ -1,0 +1,15 @@
+<resources>
+    <color name="white_opaque">#FFFFFFFF</color>
+    <color name="pitch_black">#FF000000</color>
+    <color name="gray">#d3d3d3</color>
+    <color name="green">#008000</color>
+    <color name="light_green">#329932</color>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+
+        <item name="android:windowBackground">@color/light_green</item>
+        <item name="android:colorBackground">@color/gray</item>
+
+    </style>
+
+</resources>
